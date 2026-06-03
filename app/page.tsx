@@ -35,7 +35,7 @@ export default function Home() {
     <div className="min-h-screen flex justify-center items-center bg-gradient-to-br from-sky-300 to-blue-600 px-4">
       <div className="bg-white w-full max-w-sm rounded-2xl shadow-2xl p-8 text-center">
         <h2 className="text-2xl font-bold text-gray-800 mb-5">
-          Weather App
+         Tanuj Weather App
         </h2>
 
         <div className="flex gap-2 mb-6">
